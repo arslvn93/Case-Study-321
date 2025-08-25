@@ -25,7 +25,7 @@ const config = {
   "header": {
     "tag": "CASE STUDY 1",
     "title": "How We Helped a Vancouver Family Find Their Perfect Calgary Home After a Year-Long Search and Save $13,000 in a Shifting Market",
-    "subheadline": "Purchased in a <strong>High-Demand Area</strong> With Strong Terms—Now <a href=\"#\">Generating Top-Dollar Rent</a> in a Tight Market"
+    "subheadline": "Purchased in a <strong>High-Demand Area</strong> With Strong Terms—Now Generating Top-Dollar Rent in a Tight Market"
   },
   "mainBox": {
     "summary": {
