@@ -42,7 +42,7 @@ const config = {
     "sidebar": {
       "title": "About {{companyName}}",
       "image": {
-        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHMJPSq0lx5o_alDAoqFxBc2b1Kgc49NTRqQ&s"
+        "src": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/KxSrsX5ZH2ZttFjyt9hW/media/6830c066a74651085a9956ab.webp"
       },
       "paragraphs": [
         "A former risk manager turned Realtor, proptech co-founder, podcast host, and passionate community advocate. I help busy professionals and families find homes that truly fit their lives, while working behind the scenes to make real estate better for everyone involved. With a background in risk management, I bring a strategic lens to every transaction, ensuring my clients make informed, confident decisions. ",
