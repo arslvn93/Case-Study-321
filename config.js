@@ -85,7 +85,7 @@ const config = {
         "Everything changed when a trusted friend referred them to Amy after sharing their year-long struggle to find the right Calgary neighborhood. They realized they needed someone who could be their eyes and ears on the ground, providing the local expertise and market intelligence they couldn't get from Vancouver."
       ],
       "image": {
-        "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=800&q=80"
+        "src": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/KxSrsX5ZH2ZttFjyt9hW/media/68adba9b9f32d8216a199e0c.jpeg"
       },
       "listItems": []
     },
