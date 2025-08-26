@@ -125,7 +125,7 @@ const config = {
       "href": "https://www.welpneedthis.com"
     },
     "logo": {
-      "src": "https://i.ibb.co/LDcGFV7B/Untitled-design-50.png"
+      "src": "https://i.ibb.co/PsjB5SbH/Untitled-design-51.png"
     },
     "secondaryLogo": {
       "src": "https://i.ibb.co/wh4Y0Pwt/Untitled-design-49.png"
