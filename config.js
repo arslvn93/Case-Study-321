@@ -23,7 +23,7 @@ const config = {
     "accentColor": "#d9c6a2"
   },
   "header": {
-    "tag": "CASE STUDY 1",
+    "tag": "CASE STUDY",
     "title": "How We Helped a Vancouver Family Find Their Perfect Calgary Home After a Year-Long Search and Save $13,000 in a Shifting Market",
     "subheadline": "Purchased in a <strong>High-Demand Area</strong> With Strong Terms—Now Generating Top-Dollar Rent in a Tight Market"
   },
