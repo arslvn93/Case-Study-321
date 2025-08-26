@@ -40,7 +40,7 @@ const config = {
       ]
     },
     "sidebar": {
-      "title": "About {{companyName}}",
+      "title": "About Caughlin Real Estate",
       "image": {
         "src": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/KxSrsX5ZH2ZttFjyt9hW/media/6830c066a74651085a9956ab.webp"
       },
