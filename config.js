@@ -95,7 +95,7 @@ const config = {
       "paragraphs": [
         "<strong>SAVED $13,000</strong> below asking price in a market where most buyers were still paying full price",
         "Found their dream home on the perfect quiet street with south-facing backyard and access to excellent schools",
-        "<strong>SECURED 75% MORE HOME</strong> for their money compared to Vancouver prices",
+        "<strong>SECURED 75% MORE</strong> for their money compared to Vancouver prices",
         "Completed the entire transaction in just 2 months once they found the right property"
       ],
       "listItems": []
