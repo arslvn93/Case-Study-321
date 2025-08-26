@@ -11,14 +11,14 @@ const config = {
           },
           {
             "type": "phone",
-            "value": "15874391618"
+            "value": "+1 (587) 439-1618"
           }
         ]
       }
     ],
     "companyName": "AMY",
     "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "https://youtube.com",
+    "mainCTAButtonURL": "https://calendly.com/amycaughlinrealestate/discovery-call-with-amy",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2"
   },
