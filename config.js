@@ -125,10 +125,10 @@ const config = {
       "href": "https://www.welpneedthis.com"
     },
     "logo": {
-      "src": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/d43b40bf-8ed2-49c3-a704-34908837cf96/SueMoodiePhotography_CalgaryBrandPhotography_AmyCaughlin_StudioSession_60_Edit.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466WL3NM2B3%2F20250821%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250821T165940Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDAYrLgJ%2Fne9LkabTA%2F8Y%2B4gEje2hkHlFGxITtLmHKPzQIhAMxm%2BTfEDAuQ16lUFQE2YnMFKDXcbfsvPyETH4MIiPvkKogECPH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igy3gUDuyYdi7g2RAswq3AOPNS7V%2FDUaq%2F7hpSWtKUAkZ27kJbFz8njRD%2BYpX3%2BlM1WexIO9FnUF7DdAg73gp%2FTtiHfIXe9n03OSaNhFj9e5lmI67eZhgp8CBNHtIPnj9Udkw6pX30Zm8iF6ByoKarz72Ls8z0%2Blc400sCwE1eil3Gw1YflCSWxcTG0cDZ17r9eGf%2F1zP%2FKXs8ypMU8fO4dYrOrDcIVYiOH%2Bu2sBXClsvhwiAyxgwdVMAJFCU2rEQPjqL60NxEG4EcwCwE2b%2B7mD%2ByQ9DpeG%2BJ3LcVD7oL%2FE3gCvyThq52IcnzW%2B%2FAV7r%2FSojnuoJV1M6NnKcMsCnNo2gnAX3Gs6fzDxrBZ6WJNfet75KovN6a24gLLKm%2BbA%2F3DYzGdScwZDycGOux%2BaC7ZR4%2FKCzrsB03dRyktXyAOWoAQv%2BJNnV5rpSPKCZaT012aJV5s2zM84vHMuVCSIgfr9IQgyCnfhs5O8PDfqUuZBoF4MjlYcdmFzb7DAI57yFYquXwRFlyGCceOGwdcdY8dJKFpGAttghrlujS2Pd56MaMXtkgqsNMoVS0sobbdHD0gwL5Fzxib%2BZ4xoM1Fjx02ufLlfE9Ov%2BTpEv8sffsUNFWya7H2x%2FraogSjGC5z4nxdHW9t1NYNtPlxfWjC4jp3FBjqkAXyauls4E8Qa5DSZr%2FLEv5qhPqNt6VoIe0EoxHlxoM%2BPNu6EwuwkyCML2YpfGM1gqMoYKotMvswGVnpfvJuXGMhXJ0QT5pHHkMst5gfeVrEtro%2BWlE3%2FX6OM8kuYWdXV%2FUqouJVvvQvXGo0I32E0aN%2BrF4HVMebEfGRKPxaesB0dgXXRD3JliNkLb60nOObztHc%2FS9liB9ctVFVfUPSCCu%2Fi7kBf&X-Amz-Signature=61ef8bd80a6e2495dbc4d9adcee6b52588fa7b966c68af23ee4338916bbfdaf3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+      "src": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/KxSrsX5ZH2ZttFjyt9hW/media/6843535b4cd9da7523df40c6.png"
     },
     "secondaryLogo": {
-      "src": "https://i.imgur.com/9GIzqTo.png"
+      "src": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/KxSrsX5ZH2ZttFjyt9hW/media/6843535b4cd9da7523df40c6.png"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Greater Property Group",
