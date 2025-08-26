@@ -31,7 +31,7 @@ const config = {
     "summary": {
       "title": "How We Helped a Vancouver Family Find Their Perfect Calgary Home After a Year-Long Search and Save $13,000 in a Shifting Market",
       "heroImage": {
-        "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=800&q=80"
+        "src": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/KxSrsX5ZH2ZttFjyt9hW/media/68adba9cf03c07ebc2a0a78f.jpeg"
       },
       "subTitle": "Summary",
       "paragraphs": [
