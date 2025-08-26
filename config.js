@@ -74,7 +74,7 @@ const config = {
         "Timed their purchase perfectly as the market shifted to more balanced conditions, positioning them to negotiate rather than compete"
       ],
       "testimonial": {
-        "quote": "\"\"Amy was incredible throughout our year-long search. She never pressured us and always provided honest market insights that helped us understand Calgary from Vancouver. When we finally found our home, we knew immediately it was perfect - quiet street, amazing schools, and so much more space than we could ever afford in Vancouver. Amy made the impossible feel effortless, and we couldn't be happier with our new Calgary chapter.\"\"<br><span>— Satisfied Client</span>"
+        "quote": "\"Amy was incredible throughout our year-long search. She never pressured us and always provided honest market insights that helped us understand Calgary from Vancouver. When we finally found our home, we knew immediately it was perfect - quiet street, amazing schools, and so much more space than we could ever afford in Vancouver. Amy made the impossible feel effortless, and we couldn't be happier with our new Calgary chapter.\"<br><span>— Satisfied Client</span>"
       },
       "listItems": []
     },
