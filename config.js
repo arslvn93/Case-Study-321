@@ -125,7 +125,7 @@ const config = {
       "href": "https://www.welpneedthis.com"
     },
     "logo": {
-      "src": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/KxSrsX5ZH2ZttFjyt9hW/media/6843535b4cd9da7523df40c6.png"
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStEXFAMDyCJl7lvTNu0jY-nkMR5u8xin8zlA&s"
     },
     "secondaryLogo": {
       "src": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/KxSrsX5ZH2ZttFjyt9hW/media/6843535b4cd9da7523df40c6.png"
