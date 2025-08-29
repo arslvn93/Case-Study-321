@@ -57,9 +57,9 @@ const config = {
       "title": "The Challenge",
       "paragraphs": [
         "They were completely unfamiliar with Calgary's neighborhoods and school districts, making it impossible to know where their family would truly thrive",
-        "Managing a cross-country property search with two young children while maintaining their Vancouver jobs created overwhelming logistical challenges",
-        "The constant worry about making the wrong neighborhood choice kept them paralyzed - they knew this decision would impact their children's education and their family's happiness for years to come",
-        "After nearly a year of conversations and research, they were still struggling to narrow down their ideal location and felt pressure to make a decision"
+        "Managing a Vancouver-to-Calgary property search with two young children while maintaining their Vancouver jobs created significant logistical challenges",
+        "The constant worry about making the wrong neighborhood choice kept them cautious - they knew this decision would impact their children's education and their family's happiness for years to come",
+        "After nearly a year of conversations and research, they worked diligently to understand different communities to find the perfect fit for their family's specific needsRetryClaude can make mistakes. Please double-check responses."
       ],
       "listItems": []
     },
