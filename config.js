@@ -25,7 +25,7 @@ const config = {
   "header": {
     "tag": "CASE STUDY",
     "title": "How We Helped a Vancouver Family Find Their Perfect Calgary Home After a Year-Long Search and Save $13,000 in a Shifting Market",
-    "subheadline": "Purchased in a <strong>High-Demand Area</strong> With Strong Terms—Now Generating Top-Dollar Rent in a Tight Market"
+    "subheadline": "Relocated from Vancouver to <strong>High-Demand Calgary Neighbourhood</strong> With Strong Purchase Terms—Now Enjoying Their Dream Family Home in a Competitive Market\n"
   },
   "mainBox": {
     "summary": {
@@ -35,7 +35,7 @@ const config = {
       },
       "subTitle": "Summary",
       "paragraphs": [
-        "Meet the Johnson family - a young couple with two children who were ready to trade Vancouver's high prices for Calgary's family-friendly neighborhoods. Like many relocating families, they faced the daunting task of buying sight-unseen in an unfamiliar city while managing the stress of moving their entire lives across provinces.",
+        "Meet the Vancouver family - a young couple with two children who were ready to trade Vancouver's high prices for Calgary's family-friendly neighborhoods. Like many relocating families, they faced the daunting task of buying sight-unseen in an unfamiliar city while managing the stress of moving their entire lives across provinces.",
         "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SAVED $13,000</strong> below asking price in a market where most buyers were still paying full price Found their dream home on the perfect quiet street with south-facing backyard and access to excellent schools <strong>SECURED 75% MORE HOME</strong> for their money compared to Vancouver prices Completed the entire transaction in just 2 months once they found the right property"
       ]
     },
